@@ -49,7 +49,8 @@ h6, h6 a { font-size: 1.000em; line-height: 1.2em; }
 /* text sizes */
 .text-size-xxl { font-size: 80px; line-height: 84px; }
 .text-size-xl { font-size: 48px; line-height: 52px; }
-.text-size-lg { font-size: 30px; line-height: 40px; }
+.text-size-lg { font-size: 25px; line-height: 40px; }
+.mar-top{margin-top: 40px; }
 .text-size-md { font-size: 18px; line-height: 30px; }
 .text-size-sm { font-size: 14px; line-height: 28px; }
 .text-size-xs { font-size: 12px; line-height: 18px; }
