@@ -3,13 +3,7 @@ $(document).ready(function() {
     "use strict";
 
 	// hero text
-	var typedhero = new Typed('#typedhero', {
-		strings: ['Viral marketing', 'Memetic potential', 'Brand humor'],
-		typeSpeed: 30,
-		backSpeed: 50,
-		smartBackspace: true,
-		loop: true
-    });
+// which has been moved to index.html
 
 	// sticky header
 	function headerSticky(){
